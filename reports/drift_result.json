@@ -1,0 +1,10 @@
+{
+    "drift_detected": true,
+    "drift_share": 0.5,
+    "drifted_features": [
+        "sepal length (cm)",
+        "petal length (cm)"
+    ],
+    "total_features": 4,
+    "drifted_count": 2
+}
