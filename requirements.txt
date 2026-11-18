@@ -5,8 +5,15 @@ scikit-learn
 numpy
 scipy
 joblib
-pandas
+
+# Data processing and drift monitoring
+pandas==2.3.3
+python-dateutil>=2.7,<3
+evidently==0.7.23
+
+# Experiment tracking
 mlflow
-evidently
+
+# Testing
 pytest
 httpx
